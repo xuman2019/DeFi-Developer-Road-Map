@@ -966,7 +966,7 @@
 - [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 
 #### Storage
-
+- [DB3 Network](https://github.com/dbpunk-labs/db3) - Decentralized firebase firestore alternative to build dapps quickly with minimal engineering effort.
 - [IPFS](https://ipfs.io/) - Decentralised storage and file referencing
 - [Mahuta](https://github.com/ConsenSys/Mahuta) - IPFS Storage service with added search capability, formerly IPFS-Store
 - [OrbitDB](https://github.com/orbitdb/orbit-db) - Decentralised database on top of IPFS
